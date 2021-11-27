@@ -1,0 +1,137 @@
+.viewer {
+  background-color: #f8f8f8;
+  border: 1px solid #ffffff;
+  border-radius: 60px;
+  box-shadow: 40px 30px 80px rgba(54, 48, 116, 0.3);
+  padding: 50px;
+}
+
+.image-container {
+  width: 245px;
+  height: 245px;
+  padding: 10px;
+  border-radius: 40px;
+  background-color: #ffffff;
+  box-shadow: inset 8px 8px 8px rgba(0, 0, 0, 0.1);
+}
+
+.image {
+  width: 225px;
+  height: 225px;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.3);
+  border-radius: 40px;
+}
+
+.text {
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  line-height: 21px;
+  color: #aeaeae;
+  text-shadow: 1px 1px 1px #ffffff;
+}
+
+.action-button {
+  box-shadow: -10px -10px 15px #ffffff, 10px 10px 10px rgba(0, 0, 0, 0.05),
+    inset 10px 10px 10px rgba(0, 0, 0, 0.05), inset -10px -10px 20px #ffffff;
+  background-color: #f8f8f8;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  padding: 7px 0px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.action-button:first-of-type {
+  margin-left: 10px;
+}
+
+.heart {
+  height: 18px;
+}
+
+.add,
+.share {
+  height: 15px;
+}
+
+.details-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.details {
+  max-width: 250px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.name {
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 37px;
+  color: #86748d;
+  margin-bottom: 15px;
+}
+
+.singer {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.album {
+  font-size: 16px;
+}
+
+.popup-overlay {
+  background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.popup-content {
+  width: auto !important;
+  padding: 0 20px !important;
+  border-radius: 40px !important;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3) !important;
+}
+
+.popup-arrow {
+  display: none;
+}
+
+.modal {
+  display: unset;
+  position: relative;
+}
+
+.modal-heading {
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 37px;
+  color: #86748d;
+  margin-bottom: 15px;
+}
+
+.modal-question {
+  margin-bottom: 0px;
+  color: #5d5d5d;
+}
+
+.modal-answer {
+  color: #aeaeae;
+}
+
+.modal-answer:focus-visible {
+  outline: none;
+}
+
+.modal-answer:hover {
+  color: #7e7e7e;
+}
+
+.modal-note {
+  font-size: 12px;
+  font-style: italic;
+  margin-bottom: 0;
+}

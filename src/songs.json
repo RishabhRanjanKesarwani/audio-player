@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWI4NWZkZTctM2I3Mi00Y2U3LTk2MzMtNDZhZGI5MjkzZjk2XkEyXkFqcGdeQXVyMTE1MTc3MTQw._V1_.jpg",
+    "name": "Labb par aaye",
+    "singer": "Javed Ali",
+    "album": "Bandish Bandits",
+    "song": "https://youtu.be/7kR6tqaq_zY",
+    "isFavourite": false
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://www.glamsham.com/wp-content/uploads/2020/08/Atul-Kulkarni_Web-Series_Bandish-Bandits_Amazon-Prime-Video.jpg",
+    "name": "Virah",
+    "singer": "Shankar Mahadevan",
+    "album": "Bandish Bandits",
+    "song": "https://youtu.be/Z9fwSqtKQY0",
+    "isFavourite": false
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://st1.bollywoodlife.com/wp-content/uploads/2015/10/612657.jpg",
+    "name": "Fitoori",
+    "singer": "Vaishali Made",
+    "album": "Bajirao Mastani",
+    "song": "https://youtu.be/eM2FzepIW4E",
+    "isFavourite": false
+  }
+]
