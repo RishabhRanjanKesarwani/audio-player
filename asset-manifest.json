@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/github.io/audio-player/static/css/main.3752429d.chunk.css",
+    "main.js": "/github.io/audio-player/static/js/main.db0e6943.chunk.js",
+    "main.js.map": "/github.io/audio-player/static/js/main.db0e6943.chunk.js.map",
+    "runtime-main.js": "/github.io/audio-player/static/js/runtime-main.e66681e4.js",
+    "runtime-main.js.map": "/github.io/audio-player/static/js/runtime-main.e66681e4.js.map",
+    "static/css/2.b398e059.chunk.css": "/github.io/audio-player/static/css/2.b398e059.chunk.css",
+    "static/js/2.9e218834.chunk.js": "/github.io/audio-player/static/js/2.9e218834.chunk.js",
+    "static/js/2.9e218834.chunk.js.map": "/github.io/audio-player/static/js/2.9e218834.chunk.js.map",
+    "static/js/3.4880954c.chunk.js": "/github.io/audio-player/static/js/3.4880954c.chunk.js",
+    "static/js/3.4880954c.chunk.js.map": "/github.io/audio-player/static/js/3.4880954c.chunk.js.map",
+    "index.html": "/github.io/audio-player/index.html",
+    "static/css/2.b398e059.chunk.css.map": "/github.io/audio-player/static/css/2.b398e059.chunk.css.map",
+    "static/css/main.3752429d.chunk.css.map": "/github.io/audio-player/static/css/main.3752429d.chunk.css.map",
+    "static/js/2.9e218834.chunk.js.LICENSE.txt": "/github.io/audio-player/static/js/2.9e218834.chunk.js.LICENSE.txt",
+    "static/media/Add.8f23968d.svg": "/github.io/audio-player/static/media/Add.8f23968d.svg",
+    "static/media/AutoPlay.a2bbafe3.svg": "/github.io/audio-player/static/media/AutoPlay.a2bbafe3.svg",
+    "static/media/Drawer.8a6dc29e.svg": "/github.io/audio-player/static/media/Drawer.8a6dc29e.svg",
+    "static/media/Heart.da58f8b4.svg": "/github.io/audio-player/static/media/Heart.da58f8b4.svg",
+    "static/media/Left.03f4fb6c.svg": "/github.io/audio-player/static/media/Left.03f4fb6c.svg",
+    "static/media/Loop.f3f8122a.svg": "/github.io/audio-player/static/media/Loop.f3f8122a.svg",
+    "static/media/Pause.6c61c447.svg": "/github.io/audio-player/static/media/Pause.6c61c447.svg",
+    "static/media/Play.1c33fc3e.png": "/github.io/audio-player/static/media/Play.1c33fc3e.png",
+    "static/media/Right.f7e9e8b6.svg": "/github.io/audio-player/static/media/Right.f7e9e8b6.svg",
+    "static/media/Share.cd169e58.svg": "/github.io/audio-player/static/media/Share.cd169e58.svg",
+    "static/media/Shuffle.0a81bad7.svg": "/github.io/audio-player/static/media/Shuffle.0a81bad7.svg",
+    "static/media/Volume.707e148c.svg": "/github.io/audio-player/static/media/Volume.707e148c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66681e4.js",
+    "static/css/2.b398e059.chunk.css",
+    "static/js/2.9e218834.chunk.js",
+    "static/css/main.3752429d.chunk.css",
+    "static/js/main.db0e6943.chunk.js"
+  ]
+}
