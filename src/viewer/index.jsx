@@ -34,6 +34,7 @@ const Viewer = props => {
     } catch (error) {
       setTimeout(() => toastr.error(`Some error occurred in copying the link to the clipboard.`), 300)
     }
+    tempInput.remove();
   }
   return (
     <div className="container viewer">

@@ -118,7 +118,7 @@ const Player = props => {
               <Popup trigger={audioControls} position="bottom">
               <div className="modal container">
                 <p className="text modal-heading">Coming soon...</p>
-                <p className="text modal-text">While we are working on an amazing audio panel, you can use your device audio settings to control volume and other audio controls.</p>
+                <p className="text modal-text">While we are working on an amazing audio panel, you can use your device audio settings to control volume and other audio settings.</p>
                 <p className="text modal-note">Press esc key or click outside the popup to close the popup.</p>
               </div>
             </Popup>

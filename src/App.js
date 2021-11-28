@@ -42,7 +42,6 @@ function App() {
     const index = songs.findIndex(s => s.id === id);
     if (index >= 0) {
       if (index === songs.length - 1) {
-        setPlayingStatus(false);
         toastr.info("This is the LAST song in the playlist.");
       } else {
         setSelectedSong(songs[index + 1]);
@@ -54,7 +53,6 @@ function App() {
     const index = songs.findIndex(s => s.id === id);
     if (index >= 0) {
       if (index === 0) {
-        setPlayingStatus(false);
         toastr.info("This is the FIRST song in the playlist.");
       } else {
         setSelectedSong(songs[index - 1]);

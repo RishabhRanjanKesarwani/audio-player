@@ -25,5 +25,41 @@
     "album": "Bajirao Mastani",
     "song": "https://youtu.be/eM2FzepIW4E",
     "isFavourite": false
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/engpeepingmoon/120921012220-613db1b4e8bc8shiddat-radhika-sunny.jpg",
+    "name": "Chitta",
+    "singer": "Manan Bhardwaj",
+    "album": "Shiddat",
+    "song": "https://youtu.be/CJq1hGSO89A",
+    "isFavourite": false
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://i1.sndcdn.com/artworks-000075824298-rqfuqp-t500x500.jpg",
+    "name": "All of me",
+    "singer": "John Legend",
+    "album": "All of me",
+    "song": "https://youtu.be/450p7goxZqg",
+    "isFavourite": false
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://i.scdn.co/image/ab67616d0000b273926ddfb42b05a8d6c9fba029",
+    "name": "Mohbhang",
+    "singer": "Parul Mishra",
+    "album": "TVF Aspirants",
+    "song": "https://youtu.be/JJWE3QH-Q6s",
+    "isFavourite": false
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://i1.sndcdn.com/artworks-000121788829-qvpj30-t500x500.jpg",
+    "name": "More than this",
+    "singer": "One Direction",
+    "album": "One Direction",
+    "song": "https://youtu.be/b-RQIN3wo5U",
+    "isFavourite": false
   }
 ]
