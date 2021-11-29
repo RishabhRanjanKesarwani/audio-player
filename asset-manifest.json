@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/audio-player/static/css/main.05d1d68c.chunk.css",
+    "main.css": "/audio-player/static/css/main.02be038c.chunk.css",
     "main.js": "/audio-player/static/js/main.9eabc7d5.chunk.js",
     "main.js.map": "/audio-player/static/js/main.9eabc7d5.chunk.js.map",
     "runtime-main.js": "/audio-player/static/js/runtime-main.8f9cb1b5.js",
@@ -12,7 +12,7 @@
     "static/js/3.4880954c.chunk.js.map": "/audio-player/static/js/3.4880954c.chunk.js.map",
     "index.html": "/audio-player/index.html",
     "static/css/2.b398e059.chunk.css.map": "/audio-player/static/css/2.b398e059.chunk.css.map",
-    "static/css/main.05d1d68c.chunk.css.map": "/audio-player/static/css/main.05d1d68c.chunk.css.map",
+    "static/css/main.02be038c.chunk.css.map": "/audio-player/static/css/main.02be038c.chunk.css.map",
     "static/js/2.9e218834.chunk.js.LICENSE.txt": "/audio-player/static/js/2.9e218834.chunk.js.LICENSE.txt",
     "static/media/Add.8f23968d.svg": "/audio-player/static/media/Add.8f23968d.svg",
     "static/media/AutoPlay.a2bbafe3.svg": "/audio-player/static/media/AutoPlay.a2bbafe3.svg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.8f9cb1b5.js",
     "static/css/2.b398e059.chunk.css",
     "static/js/2.9e218834.chunk.js",
-    "static/css/main.05d1d68c.chunk.css",
+    "static/css/main.02be038c.chunk.css",
     "static/js/main.9eabc7d5.chunk.js"
   ]
 }
